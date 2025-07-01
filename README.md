@@ -14,8 +14,6 @@ Responsive frontend built with React and Tailwind CSS
 
 PostgreSQL database for robust URL and user data management
 
-This project was developed as part of a B.Tech. final year thesis at C.V. Raman Global University, Odisha.
-
 🛠️ Tech Stack
 Layer	Technology
 Frontend	React, Tailwind CSS
