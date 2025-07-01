@@ -77,7 +77,6 @@ Click Event Table: Tracks individual clicks with timestamp.
 🌐 Location, browser, and device analytics
 
 📷 Screenshots
-See the /screenshots folder (add screenshots here) or visit the Outputs and Results section in the project report.
 
 ![image](https://github.com/user-attachments/assets/3c7be402-7ace-4a8f-92b3-10b0f33cc3fb)
 
@@ -98,5 +97,4 @@ PostgreSQL Docs
 
 React & Tailwind CSS Docs
 
-Bitly API Concepts
 
