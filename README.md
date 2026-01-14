@@ -12,7 +12,7 @@ Click analytics and tracking
 
 Responsive frontend built with React and Tailwind CSS
 
-PostgreSQL database for robust URL and user data management
+MySQL database for robust URL and user data management
 
 🛠️ Tech Stack
 Layer	Technology
@@ -37,7 +37,7 @@ Tools	IntelliJ IDEA (Backend), VS Code (Frontend)
 Backend (Spring Boot)
 Navigate to server/ directory.
 
-Add PostgreSQL credentials in application.properties.
+Add MySQL credentials in application.properties.
 
 Run the application via IntelliJ or command line:
 
