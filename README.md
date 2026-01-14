@@ -1,5 +1,5 @@
 Concisea (Bitly Clone) 🔗
-A URL Shortening Web Application built using Java (Spring Boot), React, and PostgreSQL.
+A URL Shortening Web Application built using Java (Spring Boot), React, and MySQL.
 
 📌 About the Project
 Concisea is a Bitly-inspired web-based URL shortening platform that enables users to generate short, manageable links from long URLs. It provides essential features such as:
@@ -19,7 +19,7 @@ Layer	Technology
 Frontend	React, Tailwind CSS
 Backend	Java, Spring Boot
 Auth	JWT Authentication
-Database	PostgreSQL
+Database	MySQL
 Tools	IntelliJ IDEA (Backend), VS Code (Frontend)
 
 🚀 Features
@@ -91,7 +91,7 @@ Click Event Table: Tracks individual clicks with timestamp.
 📚 References
 Spring Boot Documentation
 
-PostgreSQL Docs
+MySQL Docs
 
 React & Tailwind CSS Docs
 
